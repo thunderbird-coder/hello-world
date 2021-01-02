@@ -1,6 +1,6 @@
 # hello-world
 my first git hub repository
 
-a software engineer
+I am a teacher.
 
 update readme-edits branch
